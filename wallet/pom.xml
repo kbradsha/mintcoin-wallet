@@ -7,7 +7,7 @@
 	<artifactId>wallet</artifactId>
 	<packaging>apk</packaging>
 	<version>1.06</version>
-	<name>Mintcoin Wallet</name>
+	<name>Mintcoin</name>
 
 	<parent>
 		<groupId>de.langerhans.wallet</groupId>
